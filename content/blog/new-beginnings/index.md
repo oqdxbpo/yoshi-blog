@@ -1,20 +1,16 @@
 ---
 title: 日本語でタイトルを書いてみた
 date: "2015-05-28T22:40:32.169Z"
-description: ここで一度、日本語でタイトルを書いてみある。
+description: 5Gの速さ。スマートフォンで最速のA14 Bionicチップ。エッジからエッジまで広がるOLEDディスプレイ。耐落下性能を4倍向上させるCeramic Shield。どのカメラでも使えるナイトモード。そのすべてを2つの完璧なサイズで。iPhone 12、登場。
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
 
-## On deer horse aboard tritely yikes and much
+iPhoneの5Gは超高速です。映画のダウンロードは一瞬。ビデオのストリーミングは一段と高画質。HDのFaceTime通話は携帯電話ネットワークで楽しめます。データの遅延も大幅に少なくなるでしょう。しかもiPhone 12は、より幅広いサービスエリアを世界中でカバーするので、より多くの場所で5Gが使えます5。
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+## Phoneなら5Gを最大限に使えます
+
+iPhoneの5Gは超高速です。映画のダウンロードは一瞬。ビデオのストリーミングは一段と高画質。HDのFaceTime通話は携帯電話ネットワークで楽しめます。データの遅延も大幅に少なくなるでしょう。しかもiPhone 12は、より幅広いサービスエリアを世界中でカバーするので、より多くの場所で5Gが使えます5。
+
 
 - This however showed weasel
 - Well uncritical so misled
