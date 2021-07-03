@@ -1,7 +1,7 @@
 ---
 title: Hello World
-date: "2021-07-03 T18:00:03.284Z"
-description: 最初のブログです。
+date: "2021-07-03"
+description: "最初のブログです。"
 ---
 
 僕はよっしーと言います。二十代後半にして、人類最高峰に至りました。世界の頂点まで登りつめた私が、なぜブログを執筆することにしたかというと、それは私を育ててくれた「文」への感謝です。
@@ -11,7 +11,8 @@ description: 最初のブログです。
 
 
 以下はメモなのでお気になさらず。
----
+
+*** 
 
 This is my first post on my new fake blog! How exciting!
 
