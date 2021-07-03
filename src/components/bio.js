@@ -33,16 +33,16 @@ const Bio = () => {
   return (
     <div className="bio">
       <StaticImage
-        className="bio-avatar"
+        className="bio-img"
         layout="fixed"
-        formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/profile-pic.png"
+        // formats={["AUTO", "WEBP", "AVIF"]}
+        src="../images/on.png"
         width={50}
         height={50}
         quality={95}
         alt="Profile picture"
       />
-      {author?.name && (
+      {/* {author?.name && (
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
@@ -50,7 +50,7 @@ const Bio = () => {
             You should follow them on Twitter
           </a>
         </p>
-      )}
+      )} */}
     </div>
   )
 }
