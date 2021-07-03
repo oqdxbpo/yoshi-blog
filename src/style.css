@@ -87,6 +87,7 @@ body {
 
 footer {
   padding: var(--spacing-2) var(--spacing-0);
+  text-align: center;
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
 }
