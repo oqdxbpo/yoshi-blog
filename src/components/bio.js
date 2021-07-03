@@ -35,7 +35,7 @@ const Bio = () => {
       <StaticImage
         className="bio-img"
         layout="fixed"
-        // formats={["AUTO", "WEBP", "AVIF"]}
+        formats={["AUTO", "WEBP", "AVIF"]}
         src="../images/on.png"
         width={50}
         height={50}
