@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: "2021-07-03"
+date: "2000-01-01"
 description: "最初のブログです。"
 ---
 
