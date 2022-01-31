@@ -1,7 +1,7 @@
 ---
 title: ロジカルシンキングの謎
 date: "2022-01-29"
-description: "混乱からの成長"
+description: "混乱しないための整理"
 ---
 
 # 概要
