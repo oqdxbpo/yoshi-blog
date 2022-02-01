@@ -6,12 +6,18 @@ description: "バランスの難しさとループ"
 
 # 概要
 
-最近流行っている本から、少しもやもやを考えるきっかけができたので、整理してみる。
+最近流行っている本から、社会人になって以来のもやもやを考えるきっかけができたので、整理してみる。
 
 ▼実力も運のうち
 <img src="2022-02-01-23-31-05.png" width="75%">
 
-[本の要約](https://sakudoku.com/review/self-development/tyranny_of_merit)
+[本の要約はこちら](https://sakudoku.com/review/self-development/tyranny_of_merit)
 
 
-# 
+# 承認デブ・プレイヤーおじさん
+
+# 相手の立場に立って考えるの意味
+
+# 結論、相手の立場に立つことは不可能という考え方
+
+# 次の段階にいけない仕組み
