@@ -8,5 +8,10 @@ description: "バランスの難しさとループ"
 
 最近流行っている本から、少しもやもやを考えるきっかけができたので、整理してみる。
 
-![](2022-02-01-23-31-05.png)
+▼実力も運のうち
+<img src="2022-02-01-23-31-05.png" width="75%">
 
+[本の要約](https://sakudoku.com/review/self-development/tyranny_of_merit)
+
+
+# 
