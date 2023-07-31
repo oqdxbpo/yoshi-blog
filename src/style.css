@@ -230,7 +230,8 @@ table {
 }
 
 table thead tr th {
-  background-color: #97abe6
+  background-color: #f0ffff;
+  border: 1px solid #101010;
   /*border-bottom: 1px solid var(--color-accent);*/
 }
 
