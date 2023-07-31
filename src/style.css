@@ -227,13 +227,16 @@ table {
   border-collapse: collapse;
   /*border-spacing: 0.25rem;*/
   border: 1px solid #101010;
+  padding: 10px;
 }
 
+/*
 table thead tr th {
-  /*background-color: #f0ffff;*/
+  background-color: #f0ffff;
   border: 1px solid #101010;
-  /*border-bottom: 1px solid var(--color-accent);*/
+  border-bottom: 1px solid var(--color-accent);
 }
+*/
 
 /* Link */
 
