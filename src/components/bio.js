@@ -17,7 +17,7 @@ const Bio = () => {
         className="bio-img"
         layout="fixed"
         formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/on.png"
+        src="../images/main.png"
         width={50}
         height={50}
         quality={95}
