@@ -1,5 +1,5 @@
 ---
-title: 【メモ】Hello World
+title: Hello World
 date: "2000-01-01"
 description: "最初のブログです。"
 ---
